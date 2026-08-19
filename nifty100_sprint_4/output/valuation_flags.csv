@@ -1,0 +1,271 @@
+company_id,company_name,sector,P/E,P/B,EV/EBITDA,FCF_yield_pct,5yr_median_PE,PE_vs_sector_median_pct,flag
+ABB,Abbott India Ltd,Industrials,46.0,,,0.12969124316909117,16.0,221.26022126022127,Caution
+ABB,Abbott India Ltd,Industrials,46.0,,,0.11854827664204981,16.0,221.26022126022127,Caution
+ABB,Abbott India Ltd,Industrials,46.0,,,0.10728204142029314,16.0,221.26022126022127,Caution
+ABB,Abbott India Ltd,Industrials,46.0,,,0.09232755333619416,16.0,221.26022126022127,Caution
+ABB,Abbott India Ltd,Industrials,46.0,,,0.0942735669797938,16.0,221.26022126022127,Caution
+ABB,Abbott India Ltd,Industrials,46.0,,,0.07127809977975783,16.0,221.26022126022127,Caution
+ADANIENSOL,Adani Energy Solutions Ltd,Energy,9.0,,,0.636977170447354,39.0,64.51612903225806,Discount
+ADANIENSOL,Adani Energy Solutions Ltd,Energy,9.0,,,0.5042939826674849,39.0,64.51612903225806,Discount
+ADANIENSOL,Adani Energy Solutions Ltd,Energy,9.0,,,0.39723482480438727,39.0,64.51612903225806,Discount
+ADANIENSOL,Adani Energy Solutions Ltd,Energy,9.0,,,0.3574885460016914,39.0,64.51612903225806,Discount
+ADANIENSOL,Adani Energy Solutions Ltd,Energy,9.0,,,0.4159014744220023,39.0,64.51612903225806,Discount
+ADANIENSOL,Adani Energy Solutions Ltd,Energy,9.0,,,0.3141880794689826,39.0,64.51612903225806,Discount
+ADANIENT,Adani Enterprises Ltd,Industrials,11.6,,,-4.867060179947103,6.0,55.796055796055796,Discount
+ADANIENT,Adani Enterprises Ltd,Industrials,11.6,,,-3.8907651687842,6.0,55.796055796055796,Discount
+ADANIENT,Adani Enterprises Ltd,Industrials,11.6,,,-4.119192827235645,6.0,55.796055796055796,Discount
+ADANIENT,Adani Enterprises Ltd,Industrials,11.6,,,-4.526933568173478,6.0,55.796055796055796,Discount
+ADANIENT,Adani Enterprises Ltd,Industrials,11.6,,,-4.30139911209558,6.0,55.796055796055796,Discount
+ADANIENT,Adani Enterprises Ltd,Industrials,11.6,,,-4.499064189327432,6.0,55.796055796055796,Discount
+ADANIGREEN,Adani Green Energy Ltd,Energy,96.5,,,-2.749843254607919,70.0,691.7562724014338,Caution
+ADANIGREEN,Adani Green Energy Ltd,Energy,96.5,,,-2.578912560276067,70.0,691.7562724014338,Caution
+ADANIGREEN,Adani Green Energy Ltd,Energy,96.5,,,-2.5712551894198445,70.0,691.7562724014338,Caution
+ADANIGREEN,Adani Green Energy Ltd,Energy,96.5,,,-2.6939361006107525,70.0,691.7562724014338,Caution
+ADANIGREEN,Adani Green Energy Ltd,Energy,96.5,,,-2.972506420219671,70.0,691.7562724014338,Caution
+ADANIGREEN,Adani Green Energy Ltd,Energy,96.5,,,-2.61443014217979,70.0,691.7562724014338,Caution
+ADANIPORTS,"Adani Ports & Special Economic Zone Ltd
+",Industrials,12.9,,,1.1832687010454845,61.5,62.04906204906205,Discount
+ADANIPORTS,"Adani Ports & Special Economic Zone Ltd
+",Industrials,12.9,,,1.1738153467805525,61.5,62.04906204906205,Discount
+ADANIPORTS,"Adani Ports & Special Economic Zone Ltd
+",Industrials,12.9,,,1.3499093695393098,61.5,62.04906204906205,Discount
+ADANIPORTS,"Adani Ports & Special Economic Zone Ltd
+",Industrials,12.9,,,1.1242720440721181,61.5,62.04906204906205,Discount
+ADANIPORTS,"Adani Ports & Special Economic Zone Ltd
+",Industrials,12.9,,,1.3000236289143219,61.5,62.04906204906205,Discount
+ADANIPORTS,"Adani Ports & Special Economic Zone Ltd
+",Industrials,12.9,,,1.2211403642233938,61.5,62.04906204906205,Discount
+ADANIPOWER,Adani Power Ltd,Energy,32.2,,,1.4854532502800215,26.5,230.8243727598567,Caution
+ADANIPOWER,Adani Power Ltd,Energy,32.2,,,1.5789905710351277,26.5,230.8243727598567,Caution
+ADANIPOWER,Adani Power Ltd,Energy,32.2,,,1.7896907808547313,26.5,230.8243727598567,Caution
+ADANIPOWER,Adani Power Ltd,Energy,32.2,,,1.6927394997429723,26.5,230.8243727598567,Caution
+ADANIPOWER,Adani Power Ltd,Energy,32.2,,,1.6425087938567808,26.5,230.8243727598567,Caution
+ADANIPOWER,Adani Power Ltd,Energy,32.2,,,1.2863439442922924,26.5,230.8243727598567,Caution
+ASIANPAINT,"Asian Paints
+Indian Multi-National Paint and Coating Manufacturing Company",Materials,41.75,,,0.3336407125060671,19.0,312.5,Caution
+ASIANPAINT,"Asian Paints
+Indian Multi-National Paint and Coating Manufacturing Company",Materials,41.75,,,0.3095501119150748,19.0,312.5,Caution
+ASIANPAINT,"Asian Paints
+Indian Multi-National Paint and Coating Manufacturing Company",Materials,41.75,,,0.280153325488515,19.0,312.5,Caution
+ASIANPAINT,"Asian Paints
+Indian Multi-National Paint and Coating Manufacturing Company",Materials,41.75,,,0.20774292222317642,19.0,312.5,Caution
+ASIANPAINT,"Asian Paints
+Indian Multi-National Paint and Coating Manufacturing Company",Materials,41.75,,,0.17001458094960514,19.0,312.5,Caution
+ASIANPAINT,"Asian Paints
+Indian Multi-National Paint and Coating Manufacturing Company",Materials,41.75,,,0.16720543083991699,19.0,312.5,Caution
+ATGL,Adani Total Gas Ltd,Energy,21.2,,,,,151.97132616487457,Caution
+ATGL,Adani Total Gas Ltd,Energy,21.2,,,,,151.97132616487457,Caution
+ATGL,Adani Total Gas Ltd,Energy,21.2,,,,,151.97132616487457,Caution
+ATGL,Adani Total Gas Ltd,Energy,21.2,,,,,151.97132616487457,Caution
+ATGL,Adani Total Gas Ltd,Energy,21.2,,,,,151.97132616487457,Caution
+ATGL,Adani Total Gas Ltd,Energy,21.2,,,,,151.97132616487457,Caution
+BAJAJFINSV,Bajaj Finserv Ltd,Financials,21.14,,,-6.931876956146097,35.5,266.58259773013873,Caution
+BAJAJFINSV,Bajaj Finserv Ltd,Financials,21.14,,,-6.731553679850641,35.5,266.58259773013873,Caution
+BAJAJFINSV,Bajaj Finserv Ltd,Financials,21.14,,,-5.3479276766821595,35.5,266.58259773013873,Caution
+BAJAJFINSV,Bajaj Finserv Ltd,Financials,21.14,,,-4.240733049853797,35.5,266.58259773013873,Caution
+BAJAJFINSV,Bajaj Finserv Ltd,Financials,21.14,,,-4.314451418482771,35.5,266.58259773013873,Caution
+BAJAJFINSV,Bajaj Finserv Ltd,Financials,21.14,,,-4.180016339930263,35.5,266.58259773013873,Caution
+BAJAJHLDNG,Bajaj Holdings & Investment Ltd,Financials,13.1,,,0.14480359866021678,82.5,165.1954602774275,Caution
+BAJAJHLDNG,Bajaj Holdings & Investment Ltd,Financials,13.1,,,0.10755066745622083,82.5,165.1954602774275,Caution
+BAJAJHLDNG,Bajaj Holdings & Investment Ltd,Financials,13.1,,,0.10753213801809208,82.5,165.1954602774275,Caution
+BAJAJHLDNG,Bajaj Holdings & Investment Ltd,Financials,13.1,,,0.10534321813663998,82.5,165.1954602774275,Caution
+BAJAJHLDNG,Bajaj Holdings & Investment Ltd,Financials,13.1,,,0.08568875074988594,82.5,165.1954602774275,Caution
+BAJAJHLDNG,Bajaj Holdings & Investment Ltd,Financials,13.1,,,0.06702962960133939,82.5,165.1954602774275,Caution
+BAJFINANCE,Bajaj Finance Ltd,Financials,11.9,,,-9.231787665210897,6312.0,150.06305170239597,Caution
+BAJFINANCE,Bajaj Finance Ltd,Financials,11.9,,,-8.210242355145885,6312.0,150.06305170239597,Caution
+BAJFINANCE,Bajaj Finance Ltd,Financials,11.9,,,-7.226656167396954,6312.0,150.06305170239597,Caution
+BAJFINANCE,Bajaj Finance Ltd,Financials,11.9,,,-5.620786752486819,6312.0,150.06305170239597,Caution
+BAJFINANCE,Bajaj Finance Ltd,Financials,11.9,,,-4.215572537284553,6312.0,150.06305170239597,Caution
+BAJFINANCE,Bajaj Finance Ltd,Financials,11.9,,,-3.2317922805711454,6312.0,150.06305170239597,Caution
+BEL,Bharat Electronics Ltd,Industrials,34.6,,,-0.16412532973459898,21.0,166.42616642616645,Caution
+BEL,Bharat Electronics Ltd,Industrials,34.6,,,-0.14012100606394978,21.0,166.42616642616645,Caution
+BEL,Bharat Electronics Ltd,Industrials,34.6,,,-0.14039036445327513,21.0,166.42616642616645,Caution
+BEL,Bharat Electronics Ltd,Industrials,34.6,,,-0.11062915280194785,21.0,166.42616642616645,Caution
+BEL,Bharat Electronics Ltd,Industrials,34.6,,,-0.1197955588879029,21.0,166.42616642616645,Caution
+BEL,Bharat Electronics Ltd,Industrials,34.6,,,-0.09337302073000636,21.0,166.42616642616645,Caution
+BHARTIARTL,Bharti Airtel Ltd,Communication Services,13.1,,,12.382731626411173,36.5,156.4179104477612,Caution
+BHARTIARTL,Bharti Airtel Ltd,Communication Services,13.1,,,14.170796184825624,36.5,156.4179104477612,Caution
+BHARTIARTL,Bharti Airtel Ltd,Communication Services,13.1,,,11.93663987429206,36.5,156.4179104477612,Caution
+BHARTIARTL,Bharti Airtel Ltd,Communication Services,13.1,,,10.054601595495955,36.5,156.4179104477612,Caution
+BHARTIARTL,Bharti Airtel Ltd,Communication Services,13.1,,,9.626757435379755,36.5,156.4179104477612,Caution
+BHARTIARTL,Bharti Airtel Ltd,Communication Services,13.1,,,7.345106122639473,36.5,156.4179104477612,Caution
+BHEL,"Bharat Heavy Electricals Limited
+",Industrials,3.28,,,-0.679685545850554,4.0,15.776815776815775,Discount
+BHEL,"Bharat Heavy Electricals Limited
+",Industrials,3.28,,,-0.5748050911225335,4.0,15.776815776815775,Discount
+BHEL,"Bharat Heavy Electricals Limited
+",Industrials,3.28,,,-0.6477228666321486,4.0,15.776815776815775,Discount
+BHEL,"Bharat Heavy Electricals Limited
+",Industrials,3.28,,,-0.5264169250776338,4.0,15.776815776815775,Discount
+BHEL,"Bharat Heavy Electricals Limited
+",Industrials,3.28,,,-0.4769825101206598,4.0,15.776815776815775,Discount
+BHEL,"Bharat Heavy Electricals Limited
+",Industrials,3.28,,,-0.4410671269170658,4.0,15.776815776815775,Discount
+BPCL,Bharat Petroleum Corporation Ltd,Energy,32.1,,,6.088372456706079,5.5,230.10752688172045,Caution
+BPCL,Bharat Petroleum Corporation Ltd,Energy,32.1,,,4.935685387935938,5.5,230.10752688172045,Caution
+BPCL,Bharat Petroleum Corporation Ltd,Energy,32.1,,,4.860252861659132,5.5,230.10752688172045,Caution
+BPCL,Bharat Petroleum Corporation Ltd,Energy,32.1,,,4.643590327935776,5.5,230.10752688172045,Caution
+BPCL,Bharat Petroleum Corporation Ltd,Energy,32.1,,,5.24041731495739,5.5,230.10752688172045,Caution
+BPCL,Bharat Petroleum Corporation Ltd,Energy,32.1,,,5.422883218663305,5.5,230.10752688172045,Caution
+BRITANNIA,Britannia Industries Ltd,Consumer Staples,48.9,,,1.5745746157612028,15.5,179.77941176470588,Caution
+BRITANNIA,Britannia Industries Ltd,Consumer Staples,48.9,,,1.2668846649800347,15.5,179.77941176470588,Caution
+BRITANNIA,Britannia Industries Ltd,Consumer Staples,48.9,,,1.2031883781943764,15.5,179.77941176470588,Caution
+BRITANNIA,Britannia Industries Ltd,Consumer Staples,48.9,,,0.9637143535489427,15.5,179.77941176470588,Caution
+BRITANNIA,Britannia Industries Ltd,Consumer Staples,48.9,,,1.069935697916951,15.5,179.77941176470588,Caution
+BRITANNIA,Britannia Industries Ltd,Consumer Staples,48.9,,,0.9391963078561093,15.5,179.77941176470588,Caution
+COALINDIA,Coal India Ltd,Materials,63.6,,,7.271591291392319,18671.0,476.04790419161674,Caution
+COALINDIA,Coal India Ltd,Materials,63.6,,,5.893729780475121,18671.0,476.04790419161674,Caution
+COALINDIA,Coal India Ltd,Materials,63.6,,,5.0554367979813,18671.0,476.04790419161674,Caution
+COALINDIA,Coal India Ltd,Materials,63.6,,,3.7851356109544385,18671.0,476.04790419161674,Caution
+COALINDIA,Coal India Ltd,Materials,63.6,,,3.4221051759661205,18671.0,476.04790419161674,Caution
+COALINDIA,Coal India Ltd,Materials,63.6,,,2.9991751112119767,18671.0,476.04790419161674,Caution
+DLF,DLF Ltd,Real Estate,5.74,,,0.08685733686719431,31.5,68.17102137767222,Discount
+DLF,DLF Ltd,Real Estate,5.74,,,0.08806320594484883,31.5,68.17102137767222,Discount
+DLF,DLF Ltd,Real Estate,5.74,,,0.06644359337583952,31.5,68.17102137767222,Discount
+DLF,DLF Ltd,Real Estate,5.74,,,0.07491277686584866,31.5,68.17102137767222,Discount
+DLF,DLF Ltd,Real Estate,5.74,,,0.07912552847529172,31.5,68.17102137767222,Discount
+DLF,DLF Ltd,Real Estate,5.74,,,0.07309772065891328,31.5,68.17102137767222,Discount
+GRASIM,Grasim Industries Ltd,Industrials,9.3,,,-8.421734621939462,20.5,44.733044733044736,Discount
+GRASIM,Grasim Industries Ltd,Industrials,9.3,,,-9.323346029926748,20.5,44.733044733044736,Discount
+GRASIM,Grasim Industries Ltd,Industrials,9.3,,,-10.026188761843477,20.5,44.733044733044736,Discount
+GRASIM,Grasim Industries Ltd,Industrials,9.3,,,-7.965232008305896,20.5,44.733044733044736,Discount
+GRASIM,Grasim Industries Ltd,Industrials,9.3,,,-6.586820122008319,20.5,44.733044733044736,Discount
+GRASIM,Grasim Industries Ltd,Industrials,9.3,,,-7.063967310949983,20.5,44.733044733044736,Discount
+HAL,Hindustan Aeronautics Ltd,Industrials,38.9,,,0.15366782045729713,23.0,187.1091871091871,Caution
+HAL,Hindustan Aeronautics Ltd,Industrials,38.9,,,0.13250320876534294,23.0,187.1091871091871,Caution
+HAL,Hindustan Aeronautics Ltd,Industrials,38.9,,,0.10076801167797933,23.0,187.1091871091871,Caution
+HAL,Hindustan Aeronautics Ltd,Industrials,38.9,,,0.10532218611211785,23.0,187.1091871091871,Caution
+HAL,Hindustan Aeronautics Ltd,Industrials,38.9,,,0.08547033273393219,23.0,187.1091871091871,Caution
+HAL,Hindustan Aeronautics Ltd,Industrials,38.9,,,0.06861811283803056,23.0,187.1091871091871,Caution
+ICICIGI,ICICI Lombard General Insurance Company Ltd,Financials,22.5,,,0.058721721639683006,967.5,283.7326607818411,Caution
+ICICIGI,ICICI Lombard General Insurance Company Ltd,Financials,22.5,,,0.06542799270432109,967.5,283.7326607818411,Caution
+ICICIGI,ICICI Lombard General Insurance Company Ltd,Financials,22.5,,,0.05953480386258868,967.5,283.7326607818411,Caution
+ICICIGI,ICICI Lombard General Insurance Company Ltd,Financials,22.5,,,0.05174970986620996,967.5,283.7326607818411,Caution
+ICICIGI,ICICI Lombard General Insurance Company Ltd,Financials,22.5,,,0.039129686529746306,967.5,283.7326607818411,Caution
+ICICIGI,ICICI Lombard General Insurance Company Ltd,Financials,22.5,,,0.03821387979852416,967.5,283.7326607818411,Caution
+IOC,"Indian Oil Corporation
+",Energy,21.31,,,3.5307230675869827,6.5,152.75985663082437,Caution
+IOC,"Indian Oil Corporation
+",Energy,21.31,,,3.0565812087896065,6.5,152.75985663082437,Caution
+IOC,"Indian Oil Corporation
+",Energy,21.31,,,3.025891092289655,6.5,152.75985663082437,Caution
+IOC,"Indian Oil Corporation
+",Energy,21.31,,,2.4680272010907713,6.5,152.75985663082437,Caution
+IOC,"Indian Oil Corporation
+",Energy,21.31,,,2.3776357713709113,6.5,152.75985663082437,Caution
+IOC,"Indian Oil Corporation
+",Energy,21.31,,,2.794810104975634,6.5,152.75985663082437,Caution
+IRCTC,Indian Railway Catering & Tourism Corporation Ltd,Consumer Discretionary,53.8,,,0.05353962157553316,22.5,226.05042016806723,Caution
+IRCTC,Indian Railway Catering & Tourism Corporation Ltd,Consumer Discretionary,53.8,,,0.061683443453538926,22.5,226.05042016806723,Caution
+IRCTC,Indian Railway Catering & Tourism Corporation Ltd,Consumer Discretionary,53.8,,,0.06063015345510019,22.5,226.05042016806723,Caution
+IRCTC,Indian Railway Catering & Tourism Corporation Ltd,Consumer Discretionary,53.8,,,0.050431369291595245,22.5,226.05042016806723,Caution
+IRCTC,Indian Railway Catering & Tourism Corporation Ltd,Consumer Discretionary,53.8,,,0.049068132529185855,22.5,226.05042016806723,Caution
+IRCTC,Indian Railway Catering & Tourism Corporation Ltd,Consumer Discretionary,53.8,,,0.05299874823631171,22.5,226.05042016806723,Caution
+JIOFIN,Jio Financial Services Ltd,Financials,2.16,,,0.14178240251451743,86.0,27.238335435056747,Discount
+JIOFIN,Jio Financial Services Ltd,Financials,2.16,,,0.1365482921826353,86.0,27.238335435056747,Discount
+JIOFIN,Jio Financial Services Ltd,Financials,2.16,,,0.1048515009354939,86.0,27.238335435056747,Discount
+JIOFIN,Jio Financial Services Ltd,Financials,2.16,,,0.08272566740775349,86.0,27.238335435056747,Discount
+JIOFIN,Jio Financial Services Ltd,Financials,2.16,,,0.06708789305328168,86.0,27.238335435056747,Discount
+JIOFIN,Jio Financial Services Ltd,Financials,2.16,,,0.054430989669747215,86.0,27.238335435056747,Discount
+JSWENERGY,JSW Energy Ltd,Energy,8.59,,,-3.1648329821061987,38.5,61.57706093189964,Discount
+JSWENERGY,JSW Energy Ltd,Energy,8.59,,,-2.6400216796482305,38.5,61.57706093189964,Discount
+JSWENERGY,JSW Energy Ltd,Energy,8.59,,,-2.941842486589739,38.5,61.57706093189964,Discount
+JSWENERGY,JSW Energy Ltd,Energy,8.59,,,-2.2403770498651094,38.5,61.57706093189964,Discount
+JSWENERGY,JSW Energy Ltd,Energy,8.59,,,-2.053050489981469,38.5,61.57706093189964,Discount
+JSWENERGY,JSW Energy Ltd,Energy,8.59,,,-1.7705336124937798,38.5,61.57706093189964,Discount
+LICI,Life Insurance Corporation of India,Financials,63.79,,,0.5118901336147268,0.5,804.4136191677176,Caution
+LICI,Life Insurance Corporation of India,Financials,63.79,,,0.4339281998898138,0.5,804.4136191677176,Caution
+LICI,Life Insurance Corporation of India,Financials,63.79,,,0.4645334940085527,0.5,804.4136191677176,Caution
+LICI,Life Insurance Corporation of India,Financials,63.79,,,0.4966754478652942,0.5,804.4136191677176,Caution
+LICI,Life Insurance Corporation of India,Financials,63.79,,,0.4179071806105178,0.5,804.4136191677176,Caution
+LICI,Life Insurance Corporation of India,Financials,63.79,,,0.46463827637828564,0.5,804.4136191677176,Caution
+MOTHERSON,Samvardhana Motherson International Ltd,Consumer Discretionary,13.7,,,1.4843066266187366,8.0,57.56302521008403,Discount
+MOTHERSON,Samvardhana Motherson International Ltd,Consumer Discretionary,13.7,,,1.1377771917371053,8.0,57.56302521008403,Discount
+MOTHERSON,Samvardhana Motherson International Ltd,Consumer Discretionary,13.7,,,0.9021803406808526,8.0,57.56302521008403,Discount
+MOTHERSON,Samvardhana Motherson International Ltd,Consumer Discretionary,13.7,,,0.6773803089132484,8.0,57.56302521008403,Discount
+MOTHERSON,Samvardhana Motherson International Ltd,Consumer Discretionary,13.7,,,0.7354002187120002,8.0,57.56302521008403,Discount
+MOTHERSON,Samvardhana Motherson International Ltd,Consumer Discretionary,13.7,,,0.6329063689949501,8.0,57.56302521008403,Discount
+NAUKRI,Info Edge (India) Ltd,Communication Services,3.65,,,-0.062049756624307915,13.5,43.582089552238806,Discount
+NAUKRI,Info Edge (India) Ltd,Communication Services,3.65,,,-0.046473532579619385,13.5,43.582089552238806,Discount
+NAUKRI,Info Edge (India) Ltd,Communication Services,3.65,,,-0.04099272239802179,13.5,43.582089552238806,Discount
+NAUKRI,Info Edge (India) Ltd,Communication Services,3.65,,,-0.03260658473023203,13.5,43.582089552238806,Discount
+NAUKRI,Info Edge (India) Ltd,Communication Services,3.65,,,-0.02677555774290045,13.5,43.582089552238806,Discount
+NAUKRI,Info Edge (India) Ltd,Communication Services,3.65,,,-0.026604025891463663,13.5,43.582089552238806,Discount
+NESTLEIND,Nestle India Ltd,Consumer Staples,185.43,,,0.25187132766589126,22.5,681.7279411764706,Caution
+NESTLEIND,Nestle India Ltd,Consumer Staples,185.43,,,0.26561052880859437,22.5,681.7279411764706,Caution
+NESTLEIND,Nestle India Ltd,Consumer Staples,185.43,,,0.206143440794618,22.5,681.7279411764706,Caution
+NESTLEIND,Nestle India Ltd,Consumer Staples,185.43,,,0.175222413931129,22.5,681.7279411764706,Caution
+NESTLEIND,Nestle India Ltd,Consumer Staples,185.43,,,0.16217492896594593,22.5,681.7279411764706,Caution
+NESTLEIND,Nestle India Ltd,Consumer Staples,185.43,,,0.17511285287273798,22.5,681.7279411764706,Caution
+NHPC,"NHPC Ltd
+",Energy,7.67,,,0.09589777115685505,56.0,54.9820788530466,Discount
+NHPC,"NHPC Ltd
+",Energy,7.67,,,0.08600380161628983,56.0,54.9820788530466,Discount
+NHPC,"NHPC Ltd
+",Energy,7.67,,,0.06495195339953133,56.0,54.9820788530466,Discount
+NHPC,"NHPC Ltd
+",Energy,7.67,,,0.050058130390963906,56.0,54.9820788530466,Discount
+NHPC,"NHPC Ltd
+",Energy,7.67,,,0.0560434798489775,56.0,54.9820788530466,Discount
+NHPC,"NHPC Ltd
+",Energy,7.67,,,0.05573417784977254,56.0,54.9820788530466,Discount
+PIDILITIND,Pidilite Industries Ltd,Materials,29.7,,,0.5433538633853631,20.5,222.30538922155688,Caution
+PIDILITIND,Pidilite Industries Ltd,Materials,29.7,,,0.51059211308947,20.5,222.30538922155688,Caution
+PIDILITIND,Pidilite Industries Ltd,Materials,29.7,,,0.4926561222092578,20.5,222.30538922155688,Caution
+PIDILITIND,Pidilite Industries Ltd,Materials,29.7,,,0.5482528530676612,20.5,222.30538922155688,Caution
+PIDILITIND,Pidilite Industries Ltd,Materials,29.7,,,0.5859414784966227,20.5,222.30538922155688,Caution
+PIDILITIND,Pidilite Industries Ltd,Materials,29.7,,,0.588510137595519,20.5,222.30538922155688,Caution
+PNB,Punjab National Bank,Financials,1.63,,,-2.63767026342949,,20.55485498108449,Discount
+PNB,Punjab National Bank,Financials,1.63,,,-2.0192593521281976,,20.55485498108449,Discount
+PNB,Punjab National Bank,Financials,1.63,,,-1.6595055063598794,,20.55485498108449,Discount
+PNB,Punjab National Bank,Financials,1.63,,,-1.3974720331294985,,20.55485498108449,Discount
+PNB,Punjab National Bank,Financials,1.63,,,-1.4110257818155056,,20.55485498108449,Discount
+PNB,Punjab National Bank,Financials,1.63,,,-1.6126067787208855,,20.55485498108449,Discount
+RELIANCE,"Reliance Industries Ltd
+",Energy,9.61,,,6.969022159261342,15.0,68.88888888888889,Discount
+RELIANCE,"Reliance Industries Ltd
+",Energy,9.61,,,8.17794138203139,15.0,68.88888888888889,Discount
+RELIANCE,"Reliance Industries Ltd
+",Energy,9.61,,,9.466529931391058,15.0,68.88888888888889,Discount
+RELIANCE,"Reliance Industries Ltd
+",Energy,9.61,,,10.73479808026942,15.0,68.88888888888889,Discount
+RELIANCE,"Reliance Industries Ltd
+",Energy,9.61,,,10.05238840452428,15.0,68.88888888888889,Discount
+RELIANCE,"Reliance Industries Ltd
+",Energy,9.61,,,10.453145124463461,15.0,68.88888888888889,Discount
+SBILIFE,SBI Life Insurance Company Ltd,Financials,13.2,,,-0.4272466962930395,3.0,166.45649432534677,Caution
+SBILIFE,SBI Life Insurance Company Ltd,Financials,13.2,,,-0.3356724376898642,3.0,166.45649432534677,Caution
+SBILIFE,SBI Life Insurance Company Ltd,Financials,13.2,,,-0.3207428839164726,3.0,166.45649432534677,Caution
+SBILIFE,SBI Life Insurance Company Ltd,Financials,13.2,,,-0.2685376435275494,3.0,166.45649432534677,Caution
+SBILIFE,SBI Life Insurance Company Ltd,Financials,13.2,,,-0.2984594317559925,3.0,166.45649432534677,Caution
+SBILIFE,SBI Life Insurance Company Ltd,Financials,13.2,,,-0.23688132542403253,3.0,166.45649432534677,Caution
+TATACONSUM,Tata Consumer Products Ltd,Consumer Staples,10.6,,,0.008709414213509414,12.0,38.970588235294116,Discount
+TATACONSUM,Tata Consumer Products Ltd,Consumer Staples,10.6,,,0.008450750828084198,12.0,38.970588235294116,Discount
+TATACONSUM,Tata Consumer Products Ltd,Consumer Staples,10.6,,,0.008279649887998628,12.0,38.970588235294116,Discount
+TATACONSUM,Tata Consumer Products Ltd,Consumer Staples,10.6,,,0.008529929900051858,12.0,38.970588235294116,Discount
+TATACONSUM,Tata Consumer Products Ltd,Consumer Staples,10.6,,,0.007113432351764483,12.0,38.970588235294116,Discount
+TATACONSUM,Tata Consumer Products Ltd,Consumer Staples,10.6,,,0.007417056977403794,12.0,38.970588235294116,Discount
+TATASTEEL,"Tata Steel Ltd
+",Materials,7.02,,,1.6625848394529403,12.0,52.544910179640716,Discount
+TATASTEEL,"Tata Steel Ltd
+",Materials,7.02,,,1.7799965471363275,12.0,52.544910179640716,Discount
+TATASTEEL,"Tata Steel Ltd
+",Materials,7.02,,,2.057554648011868,12.0,52.544910179640716,Discount
+TATASTEEL,"Tata Steel Ltd
+",Materials,7.02,,,1.6874116745451604,12.0,52.544910179640716,Discount
+TATASTEEL,"Tata Steel Ltd
+",Materials,7.02,,,1.8881763756541885,12.0,52.544910179640716,Discount
+TATASTEEL,"Tata Steel Ltd
+",Materials,7.02,,,1.6385330523516455,12.0,52.544910179640716,Discount
+TCS,Tata Consultancy Services Ltd,Information Technology,64.3,,,17.6186412624323,27.0,188.56304985337243,Caution
+TCS,Tata Consultancy Services Ltd,Information Technology,64.3,,,17.345605997082732,27.0,188.56304985337243,Caution
+TCS,Tata Consultancy Services Ltd,Information Technology,64.3,,,14.36567343285356,27.0,188.56304985337243,Caution
+TCS,Tata Consultancy Services Ltd,Information Technology,64.3,,,11.94748140297249,27.0,188.56304985337243,Caution
+TCS,Tata Consultancy Services Ltd,Information Technology,64.3,,,12.423493486664078,27.0,188.56304985337243,Caution
+TCS,Tata Consultancy Services Ltd,Information Technology,64.3,,,10.934582772779395,27.0,188.56304985337243,Caution
+TECHM,Tech Mahindra Ltd,Information Technology,11.9,,,0.30843283544500877,17.0,34.89736070381232,Discount
+TECHM,Tech Mahindra Ltd,Information Technology,11.9,,,0.28097463891689733,17.0,34.89736070381232,Discount
+TECHM,Tech Mahindra Ltd,Information Technology,11.9,,,0.27183614675862805,17.0,34.89736070381232,Discount
+TECHM,Tech Mahindra Ltd,Information Technology,11.9,,,0.2115572009075043,17.0,34.89736070381232,Discount
+TECHM,Tech Mahindra Ltd,Information Technology,11.9,,,0.16589479233025542,17.0,34.89736070381232,Discount
+TECHM,Tech Mahindra Ltd,Information Technology,11.9,,,0.16742270363873682,17.0,34.89736070381232,Discount
