@@ -1,0 +1,27 @@
+presets:
+  Quality_Compounder:
+    min_roe: 0
+    max_de: 10.0
+    min_fcf: -100000
+    min_revenue_cagr_5yr: 0
+  Value_Pick:
+    max_pe: 100
+    max_pb: 50
+    max_de: 10.0
+    min_dividend_yield: 0
+  Growth_Accelerator:
+    min_pat_cagr_5yr: 0
+    min_revenue_cagr_5yr: 0
+    max_de: 10.0
+  Dividend_Champion:
+    min_dividend_yield: 0
+    max_dividend_payout: 100
+    min_fcf: -5000
+  Debt_Free_Blue_Chip:
+    max_de: 5.0
+    min_roe: 0
+    min_sales: 1
+  Turnaround_Watch:
+    min_revenue_cagr_3yr: 0
+    fcf_positive_latest: False
+    de_declining: False
