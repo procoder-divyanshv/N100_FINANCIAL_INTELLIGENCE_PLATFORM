@@ -1,0 +1,13 @@
+table,rows_in,rows_out,rejected
+companies,92,92,0
+profitandloss,1276,1276,0
+balancesheet,1312,1312,0
+cashflow,1187,1187,0
+analysis,20,20,0
+documents,1585,1585,0
+prosandcons,16,16,0
+sectors,92,92,0
+stock_prices,5520,5520,0
+market_cap,552,552,0
+financial_ratios,1184,1184,0
+peer_groups,56,56,0
