@@ -1,0 +1,3 @@
+=> OPM Mismatch Explanation: "The source data provided in profitandloss.xlsx has a pre-calculated 'opm_percentage'. Our ratio engine computes OPM using (operating_profit / sales) * 100. The warnings indicate a >1% discrepancy between the source's stated OPM and our mathematical computation based on raw figures."
+
+=> Debt-Free Companies Explanation: "Logged correctly because their total borrowings are exactly 0, meaning standard D/E calculations output 0 and ICR needs special handling."
