@@ -82,7 +82,7 @@ id,cluster_id,cluster_name,distance_from_centroid
 910,0,High-Quality Compounders,0.05800108875190722
 766,0,High-Quality Compounders,0.18710574822589138
 790,0,High-Quality Compounders,0.13784183320770996
-328,3,Distressed or Turnaround,0.1936423791733479
+328,3,Distressed or Turnaround,0.19364237917335247
 340,0,High-Quality Compounders,0.13998999811138424
 352,0,High-Quality Compounders,0.18366036388957274
 364,0,High-Quality Compounders,0.11594983910708205
@@ -184,7 +184,7 @@ id,cluster_id,cluster_name,distance_from_centroid
 563,0,High-Quality Compounders,0.33304019896246634
 117,0,High-Quality Compounders,0.1784968849637983
 116,0,High-Quality Compounders,0.1784968849637983
-329,3,Distressed or Turnaround,0.22021528307577862
+329,3,Distressed or Turnaround,0.22021528307578267
 575,0,High-Quality Compounders,0.48232389886187266
 163,0,High-Quality Compounders,0.6633400175841587
 56,0,High-Quality Compounders,0.07879729820040754
@@ -246,7 +246,7 @@ id,cluster_id,cluster_name,distance_from_centroid
 1007,0,High-Quality Compounders,0.15854701876915586
 744,0,High-Quality Compounders,0.18436766563594592
 504,0,High-Quality Compounders,0.6793628844832206
-330,3,Distressed or Turnaround,0.27004280428085004
+330,3,Distressed or Turnaround,0.2700428042808533
 564,0,High-Quality Compounders,0.3573198134835282
 366,0,High-Quality Compounders,0.12569818405285763
 198,0,High-Quality Compounders,0.36428459909240696
@@ -369,7 +369,7 @@ id,cluster_id,cluster_name,distance_from_centroid
 235,2,Value Cyclicals,2.2282013963988296
 1044,0,High-Quality Compounders,0.10158750190429969
 1116,0,High-Quality Compounders,0.1283255882054561
-331,3,Distressed or Turnaround,0.19422155300994765
+331,3,Distressed or Turnaround,0.1942215530099522
 247,0,High-Quality Compounders,0.1907710732053874
 319,0,High-Quality Compounders,0.4856012493971427
 58,0,High-Quality Compounders,0.06771513537116622
@@ -390,7 +390,7 @@ id,cluster_id,cluster_name,distance_from_centroid
 448,0,High-Quality Compounders,1.663915455338098
 602,0,High-Quality Compounders,0.13875539165491763
 248,0,High-Quality Compounders,0.18982303133223458
-483,3,Distressed or Turnaround,1.3840445899080283
+483,3,Distressed or Turnaround,1.384044589908029
 236,2,Value Cyclicals,3.0914864891389366
 1153,0,High-Quality Compounders,0.1615576904658694
 1165,0,High-Quality Compounders,1.1897193558297314
@@ -430,7 +430,7 @@ id,cluster_id,cluster_name,distance_from_centroid
 506,0,High-Quality Compounders,0.8723905044013638
 200,0,High-Quality Compounders,0.5801484146882617
 734,0,High-Quality Compounders,0.07254650629798669
-518,3,Distressed or Turnaround,1.136245446185321
+518,3,Distressed or Turnaround,1.1362454461853218
 710,0,High-Quality Compounders,0.21396890776839478
 190,0,High-Quality Compounders,0.18724882648794566
 1177,0,High-Quality Compounders,1.4801075679055822
@@ -464,7 +464,7 @@ id,cluster_id,cluster_name,distance_from_centroid
 320,0,High-Quality Compounders,0.49176446294583315
 106,0,High-Quality Compounders,0.12139833092830472
 356,0,High-Quality Compounders,0.1850534834135738
-332,3,Distressed or Turnaround,1.1226174742317425
+332,3,Distressed or Turnaround,1.1226174742317434
 874,0,High-Quality Compounders,0.3246568835066697
 873,0,High-Quality Compounders,0.3246568835066697
 872,0,High-Quality Compounders,0.3246568835066697
@@ -544,7 +544,7 @@ id,cluster_id,cluster_name,distance_from_centroid
 613,0,High-Quality Compounders,0.1847987403553114
 759,0,High-Quality Compounders,0.10637942626747349
 345,0,High-Quality Compounders,0.17210423957604595
-484,3,Distressed or Turnaround,1.0574095138453377
+484,3,Distressed or Turnaround,1.0574095138453385
 285,0,High-Quality Compounders,0.17902272653674928
 40,0,High-Quality Compounders,0.10634514030896931
 225,0,High-Quality Compounders,0.08133991239852556
@@ -565,7 +565,7 @@ id,cluster_id,cluster_name,distance_from_centroid
 297,0,High-Quality Compounders,2.6960493826001315
 72,0,High-Quality Compounders,0.10732869500976426
 191,0,High-Quality Compounders,0.18820332912862248
-519,3,Distressed or Turnaround,0.8835558976794421
+519,3,Distressed or Turnaround,0.8835558976794431
 393,0,High-Quality Compounders,0.15851064151263677
 1022,0,High-Quality Compounders,0.17701329793031953
 125,0,High-Quality Compounders,0.17957425032193128
@@ -630,7 +630,7 @@ id,cluster_id,cluster_name,distance_from_centroid
 61,0,High-Quality Compounders,0.10307167545955563
 442,0,High-Quality Compounders,0.08821301326746721
 226,0,High-Quality Compounders,0.07441119010228817
-334,3,Distressed or Turnaround,1.24815807051391
+334,3,Distressed or Turnaround,1.2481580705139108
 274,0,High-Quality Compounders,0.09910313386953208
 41,0,High-Quality Compounders,0.13416750298570118
 322,0,High-Quality Compounders,0.5993530381633432
@@ -656,7 +656,7 @@ id,cluster_id,cluster_name,distance_from_centroid
 508,0,High-Quality Compounders,0.9531548486389909
 382,0,High-Quality Compounders,0.17684304810182094
 126,0,High-Quality Compounders,0.17411551774818246
-520,3,Distressed or Turnaround,0.5502100658904016
+520,3,Distressed or Turnaround,0.5502100658904032
 623,0,High-Quality Compounders,0.37232573798362334
 127,0,High-Quality Compounders,0.17411551774818246
 532,0,High-Quality Compounders,1.664479535826449
@@ -668,7 +668,7 @@ id,cluster_id,cluster_name,distance_from_centroid
 238,0,High-Quality Compounders,3.301800355708631
 358,0,High-Quality Compounders,0.18449094489550155
 614,0,High-Quality Compounders,0.1836863342550059
-485,3,Distressed or Turnaround,0.497534621483109
+485,3,Distressed or Turnaround,0.49753462148310723
 73,0,High-Quality Compounders,0.10307167545955563
 12,0,High-Quality Compounders,0.1849467496992343
 49,0,High-Quality Compounders,0.28756573049860473
@@ -677,9 +677,9 @@ id,cluster_id,cluster_name,distance_from_centroid
 430,0,High-Quality Compounders,0.14731799435613863
 151,0,High-Quality Compounders,0.18478925131216486
 150,0,High-Quality Compounders,0.18478925131216486
-521,3,Distressed or Turnaround,0.7685095152717888
+521,3,Distressed or Turnaround,0.76850951527179
 941,0,High-Quality Compounders,0.460486637750746
-486,3,Distressed or Turnaround,0.8179233141178149
+486,3,Distressed or Turnaround,0.817923314117816
 509,0,High-Quality Compounders,0.7789063058950121
 287,0,High-Quality Compounders,0.1563097945456242
 749,0,High-Quality Compounders,0.18717830005529631
@@ -706,7 +706,7 @@ id,cluster_id,cluster_name,distance_from_centroid
 359,0,High-Quality Compounders,0.1853616235151575
 431,0,High-Quality Compounders,0.15151026467482342
 347,0,High-Quality Compounders,0.17902623952293217
-335,3,Distressed or Turnaround,0.6198320087612298
+335,3,Distressed or Turnaround,0.6198320087612312
 761,0,High-Quality Compounders,0.10290014190155111
 797,0,High-Quality Compounders,0.13322308779236164
 443,0,High-Quality Compounders,0.0817263253124651
@@ -767,7 +767,7 @@ id,cluster_id,cluster_name,distance_from_centroid
 976,0,High-Quality Compounders,0.1694909893641468
 239,0,High-Quality Compounders,2.8370999148657208
 74,0,High-Quality Compounders,0.10018801144645216
-533,3,Distressed or Turnaround,1.6024266295762501
+533,3,Distressed or Turnaround,1.6024266295762508
 1120,0,High-Quality Compounders,0.09648596342618894
 545,4,Emerging Growth,0.9296595856138776
 1168,0,High-Quality Compounders,0.9934424526351918
@@ -776,7 +776,7 @@ id,cluster_id,cluster_name,distance_from_centroid
 1108,0,High-Quality Compounders,0.14446354200756933
 701,0,High-Quality Compounders,0.14774076802791378
 966,0,High-Quality Compounders,0.18684906293208733
-336,3,Distressed or Turnaround,0.18040610642656296
+336,3,Distressed or Turnaround,0.18040610642656787
 1061,0,High-Quality Compounders,0.10141369443703017
 348,0,High-Quality Compounders,0.17994386770017864
 51,0,High-Quality Compounders,0.6894481157263045
@@ -838,7 +838,7 @@ id,cluster_id,cluster_name,distance_from_centroid
 726,0,High-Quality Compounders,0.175743255293331
 649,0,High-Quality Compounders,0.11777453752230078
 452,0,High-Quality Compounders,1.9091611301733722
-522,3,Distressed or Turnaround,0.19215858324760043
+522,3,Distressed or Turnaround,0.1921585832475958
 675,0,High-Quality Compounders,0.08928371410669246
 464,0,High-Quality Compounders,0.17776303504653515
 510,0,High-Quality Compounders,0.7769301254078719
@@ -857,7 +857,7 @@ id,cluster_id,cluster_name,distance_from_centroid
 16,0,High-Quality Compounders,0.1796063269038715
 432,0,High-Quality Compounders,0.1708844881796466
 714,0,High-Quality Compounders,0.19351832799358887
-487,3,Distressed or Turnaround,0.47751028029553405
+487,3,Distressed or Turnaround,0.47751028029553594
 625,0,High-Quality Compounders,0.5319296687287707
 408,0,High-Quality Compounders,0.18595127245187215
 546,4,Emerging Growth,0.8546381617510457
@@ -890,22 +890,22 @@ id,cluster_id,cluster_name,distance_from_centroid
 1095,0,High-Quality Compounders,0.1778360318114134
 1158,0,High-Quality Compounders,0.1698254918026792
 277,0,High-Quality Compounders,0.09285053302945873
-205,3,Distressed or Turnaround,1.5868932620851566
+205,3,Distressed or Turnaround,1.586893262085156
 703,0,High-Quality Compounders,0.1181925094330151
 265,0,High-Quality Compounders,0.18696963014802812
 715,0,High-Quality Compounders,0.1781423795589154
 229,0,High-Quality Compounders,0.05748200246256627
 195,0,High-Quality Compounders,0.18811748073090226
-535,3,Distressed or Turnaround,1.0490044374537335
+535,3,Distressed or Turnaround,1.0490044374537328
 547,4,Emerging Growth,2.550476783123346
 571,0,High-Quality Compounders,0.44318747569465144
 967,0,High-Quality Compounders,0.18710211507714267
 1026,0,High-Quality Compounders,0.18172422444098368
-523,3,Distressed or Turnaround,1.8623515347155968
+523,3,Distressed or Turnaround,1.8623515347155981
 217,0,High-Quality Compounders,1.003888715333515
 688,0,High-Quality Compounders,1.595618024271181
 241,0,High-Quality Compounders,2.976700137868706
-488,3,Distressed or Turnaround,0.5897215739894389
+488,3,Distressed or Turnaround,0.5897215739894404
 727,0,High-Quality Compounders,0.18251831014806988
 19,0,High-Quality Compounders,0.1796412741288375
 183,0,High-Quality Compounders,0.143376662010006
@@ -935,7 +935,7 @@ id,cluster_id,cluster_name,distance_from_centroid
 289,0,High-Quality Compounders,0.10389320512284235
 607,0,High-Quality Compounders,0.11204980267837744
 799,0,High-Quality Compounders,0.13255374391061553
-337,3,Distressed or Turnaround,1.1953221418418583
+337,3,Distressed or Turnaround,1.195322141841859
 132,0,High-Quality Compounders,0.1761912628670089
 373,0,High-Quality Compounders,0.1808746734193532
 52,0,High-Quality Compounders,1.4129363375844524
@@ -973,7 +973,7 @@ id,cluster_id,cluster_name,distance_from_centroid
 361,0,High-Quality Compounders,0.18444139285237265
 89,0,High-Quality Compounders,0.07535491085467289
 689,0,High-Quality Compounders,1.081666184275714
-206,3,Distressed or Turnaround,0.46073828428162605
+206,3,Distressed or Turnaround,0.4607382842816241
 112,0,High-Quality Compounders,0.13493123390179942
 618,0,High-Quality Compounders,0.1792197715983933
 1015,0,High-Quality Compounders,0.1772733859745178
@@ -984,7 +984,7 @@ id,cluster_id,cluster_name,distance_from_centroid
 584,0,High-Quality Compounders,0.5397846866395971
 158,0,High-Quality Compounders,0.18500478147250027
 1183,0,High-Quality Compounders,1.2317476609048366
-172,3,Distressed or Turnaround,0.98911465696626
+172,3,Distressed or Turnaround,0.9891146569662591
 1097,0,High-Quality Compounders,0.17859951267732865
 1039,0,High-Quality Compounders,0.0793780770895605
 596,0,High-Quality Compounders,0.1746475231190546
@@ -1018,7 +1018,7 @@ id,cluster_id,cluster_name,distance_from_centroid
 302,0,High-Quality Compounders,2.1327910370283902
 764,0,High-Quality Compounders,0.14318010326445535
 290,0,High-Quality Compounders,0.11298318376010032
-489,3,Distressed or Turnaround,2.189988856213451
+489,3,Distressed or Turnaround,2.189988856213452
 695,0,High-Quality Compounders,0.17961832634076913
 454,0,High-Quality Compounders,2.8085024858747594
 314,0,High-Quality Compounders,0.7454277680885301
@@ -1038,13 +1038,13 @@ id,cluster_id,cluster_name,distance_from_centroid
 350,0,High-Quality Compounders,0.17575388229077674
 434,0,High-Quality Compounders,0.18107409166139332
 800,0,High-Quality Compounders,0.1287295542552698
-338,3,Distressed or Turnaround,4.8255801151396565
+338,3,Distressed or Turnaround,4.825580115139657
 326,0,High-Quality Compounders,0.9539843020219018
 812,0,High-Quality Compounders,0.08068346870427841
 930,0,High-Quality Compounders,0.07607780167369506
 1159,0,High-Quality Compounders,0.17275991752888786
 278,0,High-Quality Compounders,0.09824917574818585
-536,3,Distressed or Turnaround,0.8131948194310388
+536,3,Distressed or Turnaround,0.8131948194310399
 716,0,High-Quality Compounders,0.17226384777750609
 230,0,High-Quality Compounders,0.07105697326235091
 20,0,High-Quality Compounders,0.18079808588147764
@@ -1053,7 +1053,7 @@ id,cluster_id,cluster_name,distance_from_centroid
 931,0,High-Quality Compounders,0.07607780167369506
 968,0,High-Quality Compounders,0.18704043981801408
 548,0,High-Quality Compounders,3.2553562668362392
-524,3,Distressed or Turnaround,0.8104545785382522
+524,3,Distressed or Turnaround,0.8104545785382533
 242,0,High-Quality Compounders,3.4168047825956096
 704,0,High-Quality Compounders,0.13727452253204417
 728,0,High-Quality Compounders,0.17698281268988952
@@ -1129,16 +1129,16 @@ id,cluster_id,cluster_name,distance_from_centroid
 696,0,High-Quality Compounders,0.1807547663243556
 549,0,High-Quality Compounders,2.6634332365515974
 705,0,High-Quality Compounders,0.15536154246328912
-537,3,Distressed or Turnaround,0.7204536219622746
+537,3,Distressed or Turnaround,0.7204536219622758
 717,0,High-Quality Compounders,0.1714618958222763
-525,3,Distressed or Turnaround,1.0339606917695525
+525,3,Distressed or Turnaround,1.0339606917695532
 729,0,High-Quality Compounders,0.17693965133688358
 678,0,High-Quality Compounders,0.10514686876633654
 113,0,High-Quality Compounders,0.12991044826222414
-339,3,Distressed or Turnaround,5.522795706094241
+339,3,Distressed or Turnaround,5.522795706094242
 315,0,High-Quality Compounders,0.9215694106815118
 327,0,High-Quality Compounders,1.1862786999870651
-207,3,Distressed or Turnaround,0.32034063113305367
+207,3,Distressed or Turnaround,0.32034063113305644
 1016,0,High-Quality Compounders,0.18271365959528835
 197,0,High-Quality Compounders,0.18745960713111598
 1028,0,High-Quality Compounders,0.17230409085170112
@@ -1153,7 +1153,7 @@ id,cluster_id,cluster_name,distance_from_centroid
 136,0,High-Quality Compounders,0.17337231354690086
 1040,0,High-Quality Compounders,0.08593422318283334
 219,0,High-Quality Compounders,1.0902094845913881
-1184,3,Distressed or Turnaround,0.8521715503789018
+1184,3,Distressed or Turnaround,0.8521715503789029
 231,0,High-Quality Compounders,0.061112672526438844
 906,0,High-Quality Compounders,0.11107211677354102
 907,0,High-Quality Compounders,0.11107211677354102
