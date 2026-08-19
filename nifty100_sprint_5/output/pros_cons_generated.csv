@@ -1,0 +1,38 @@
+company_id,type,rule_id,text,confidence_pct
+ABB,pro,PRO_01,Consistently high return on equity above 20% demonstrates exceptional capital efficiency,90
+ADANIPOWER,pro,PRO_01,Consistently high return on equity above 20% demonstrates exceptional capital efficiency,90
+ASIANPAINT,pro,PRO_01,Consistently high return on equity above 20% demonstrates exceptional capital efficiency,90
+BAJAJ-AUTO,pro,PRO_01,Consistently high return on equity above 20% demonstrates exceptional capital efficiency,90
+BAJAJFINSV,pro,PRO_01,Consistently high return on equity above 20% demonstrates exceptional capital efficiency,90
+BEL,pro,PRO_01,Consistently high return on equity above 20% demonstrates exceptional capital efficiency,90
+BOSCHLTD,pro,PRO_01,Consistently high return on equity above 20% demonstrates exceptional capital efficiency,90
+BPCL,pro,PRO_01,Consistently high return on equity above 20% demonstrates exceptional capital efficiency,90
+BRITANNIA,pro,PRO_01,Consistently high return on equity above 20% demonstrates exceptional capital efficiency,90
+COALINDIA,pro,PRO_01,Consistently high return on equity above 20% demonstrates exceptional capital efficiency,90
+EICHERMOT,pro,PRO_01,Consistently high return on equity above 20% demonstrates exceptional capital efficiency,90
+HAL,pro,PRO_01,Consistently high return on equity above 20% demonstrates exceptional capital efficiency,90
+HCLTECH,pro,PRO_01,Consistently high return on equity above 20% demonstrates exceptional capital efficiency,90
+HEROMOTOCO,pro,PRO_01,Consistently high return on equity above 20% demonstrates exceptional capital efficiency,90
+HINDUNILVR,pro,PRO_01,Consistently high return on equity above 20% demonstrates exceptional capital efficiency,90
+INFY,pro,PRO_01,Consistently high return on equity above 20% demonstrates exceptional capital efficiency,90
+IOC,pro,PRO_01,Consistently high return on equity above 20% demonstrates exceptional capital efficiency,90
+IRCTC,pro,PRO_01,Consistently high return on equity above 20% demonstrates exceptional capital efficiency,90
+ITC,pro,PRO_01,Consistently high return on equity above 20% demonstrates exceptional capital efficiency,90
+JIOFIN,pro,PRO_03,Debt-free balance sheet provides financial flexibility and eliminates interest burden,100
+LICI,pro,PRO_01,Consistently high return on equity above 20% demonstrates exceptional capital efficiency,90
+LICI,pro,PRO_03,Debt-free balance sheet provides financial flexibility and eliminates interest burden,100
+LT,pro,PRO_01,Consistently high return on equity above 20% demonstrates exceptional capital efficiency,90
+LTIM,pro,PRO_01,Consistently high return on equity above 20% demonstrates exceptional capital efficiency,90
+NESTLEIND,pro,PRO_01,Consistently high return on equity above 20% demonstrates exceptional capital efficiency,90
+PFC,pro,PRO_01,Consistently high return on equity above 20% demonstrates exceptional capital efficiency,90
+PIDILITIND,pro,PRO_01,Consistently high return on equity above 20% demonstrates exceptional capital efficiency,90
+PNB,pro,PRO_01,Consistently high return on equity above 20% demonstrates exceptional capital efficiency,90
+RECLTD,pro,PRO_01,Consistently high return on equity above 20% demonstrates exceptional capital efficiency,90
+SBILIFE,pro,PRO_03,Debt-free balance sheet provides financial flexibility and eliminates interest burden,100
+TATAMOTORS,pro,PRO_01,Consistently high return on equity above 20% demonstrates exceptional capital efficiency,90
+TCS,pro,PRO_01,Consistently high return on equity above 20% demonstrates exceptional capital efficiency,90
+TITAN,pro,PRO_01,Consistently high return on equity above 20% demonstrates exceptional capital efficiency,90
+TORNTPHARM,pro,PRO_01,Consistently high return on equity above 20% demonstrates exceptional capital efficiency,90
+TRENT,pro,PRO_01,Consistently high return on equity above 20% demonstrates exceptional capital efficiency,90
+TVSMOTOR,pro,PRO_01,Consistently high return on equity above 20% demonstrates exceptional capital efficiency,90
+INDIGO,pro,PRO_01,Consistently high return on equity above 20% demonstrates exceptional capital efficiency,90

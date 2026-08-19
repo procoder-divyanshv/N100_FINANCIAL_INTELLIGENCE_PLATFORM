@@ -1,0 +1,21 @@
+company_id,column,text_snippet
+id,unnamed:_2,compounded_sales_growth
+id,unnamed:_3,compounded_profit_growth
+id,unnamed:_4,stock_price_cagr
+12,unnamed:_2,TTM:            43%
+12,unnamed:_3,TTM:                 18%
+12,unnamed:_4,     1 Year:         -2%
+12,unnamed:_5,Last Year:      12%
+16,unnamed:_2,TTM:            5%             
+16,unnamed:_3,TTM:                 8%
+16,unnamed:_5,Last Year:       52%
+19,unnamed:_4,      3 Years:      -1%
+20,unnamed:_2,TTM:           -3%
+20,unnamed:_3,TTM:                 1%
+20,unnamed:_5,Last Year:       14%
+4,unnamed:_2,TTM:            47%
+4,unnamed:_3,TTM:                27%
+4,unnamed:_5,Last Year:    17%
+8,unnamed:_2,TTM:            3%
+8,unnamed:_3,TTM:                 8%
+8,unnamed:_5,Last Year:     32%
